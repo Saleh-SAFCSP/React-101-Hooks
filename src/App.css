@@ -1,0 +1,12 @@
+.navbar {
+  background-color: lightgrey;
+  width: 100vw;
+  height: 30px;
+}
+
+.mid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
